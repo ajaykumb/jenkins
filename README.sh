@@ -1,3 +1,4 @@
 echo "ajay kuma"
-cho "satya" >> /tmp/ajay.txt
+echo "satya" >> /tmp/ajay.txt
+ls -lrth >> /tmp/ajayq.txt
 
