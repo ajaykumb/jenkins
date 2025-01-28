@@ -1,3 +1,3 @@
 echo "ajay kuma"
-echo "satya" >> /tmp/ajay.txt
+cho "satya" >> /tmp/ajay.txt
 
