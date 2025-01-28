@@ -5,5 +5,5 @@ file="/tmp/ajay.txt"
 if [ -f "$file" ]; then
     echo "File exists"
 else
-    echo "File does not exist"
+    echo "File does nt exist"
 fi
