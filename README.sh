@@ -1,2 +1,2 @@
-echo "ajay kumar"
+echo "ajay kuma"
 
