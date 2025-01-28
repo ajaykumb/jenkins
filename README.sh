@@ -1,10 +1,9 @@
 #!/bin/bash
-echo "this is a script"
+echo "This is a script"
 file="/tmp/ajay.txt"
-if { -f "$file }
-then
-echo "file is exit"
-else
-echo "file is not exit"
-fi
 
+if [ -f "$file" ]; then
+    echo "File exists"
+else
+    echo "File does not exist"
+fi
