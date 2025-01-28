@@ -1,5 +1,5 @@
 #!/bin/bash
-echo "This is a script"
+cho "This is a script"
 file="/tmp/ajay.txt"
 
 if [ -f "$file" ]; then
