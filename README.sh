@@ -7,3 +7,5 @@ if [ -f "$file" ]; then
 else
     echo "File does nt exist"
 fi
+
+echo "ajay"
